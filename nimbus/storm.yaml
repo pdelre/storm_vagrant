@@ -1,0 +1,6 @@
+storm.zookeeper.servers:
+    - "172.24.0.1"
+
+storm.local.dir: "/var/storm/local"
+
+ui.port: 80

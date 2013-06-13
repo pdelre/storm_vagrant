@@ -1,0 +1,12 @@
+storm.zookeeper.servers:
+    - "172.24.0.1"
+
+storm.local.dir: "/var/storm/local"
+
+nimbus.host: "172.24.0.11"
+
+supervisor.slots.ports:
+    - 6700
+    - 6701
+    - 6702
+    - 6703
